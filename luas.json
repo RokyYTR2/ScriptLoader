@@ -124,6 +124,7 @@
     "unmatched_revealer",
     "SolixDebug",
     "SolixSecret",
-    "SolixAA"
+    "SolixAA",
+    "spectral"
   ]
 }
