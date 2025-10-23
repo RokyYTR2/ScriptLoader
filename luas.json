@@ -125,6 +125,7 @@
     "SolixDebug",
     "SolixSecret",
     "SolixAA",
-    "spectral"
+    "spectral",
+    "abyss"
   ]
 }
