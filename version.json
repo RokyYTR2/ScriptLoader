@@ -1,6 +1,7 @@
 {
     "version": "1.0.1",
     "changelog": [
-        "Added Culinan Lua"
+        "Added Culinan Lua",
+        "Update UI"
     ]
 }
